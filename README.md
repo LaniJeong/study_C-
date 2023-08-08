@@ -1,13 +1,11 @@
-# study_C#
-초보자를 위한 C# 200제
 
-- 1일차
-    - Part 1: 간단한 C#프로그램을 명령줄에서 컴파일하기
-        - 001~005
+# C# Basic
+## C# 기본문법 ~ 응용 앱 개발
 
-- 2일차
-    - Part 1: 간단한 C#프로그램을 명령줄에서 컴파일하기
-        - 006~010
+[Basic C#](https://github.com/LaniJeong/basic-CSharp-2023#readme) 
+<br />
+<br />
+[WPF](https://github.com/LaniJeong/pknu-wpf-2023)
 
 # Team Project: Smart Building Project - 관리자용 WPF 앱 개발
 ## WPF 라즈베리파이 통신
@@ -91,3 +89,27 @@
   - MQTT통신 연결 확인 섹션
 - 입차현황 view
   - 삭제버튼 활성화(DB 연동)
+
+### 17일차 (8.8)
+- 관리자용 모니터 앱
+  - MQTT통신 연결 확인 섹션 수정
+- 날씨 웹크롤링 오류 수정
+  - Timespan 조정
+
+
+#### <건물 관리자용 모니터 앱>
+<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smartbuilding_app.png" width="700">
+
+#### <거주자용 모니터 앱>
+<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smarthome_app.png" width="700">
+ 
+# study_C#
+초보자를 위한 C# 200제
+
+- 1일차
+    - Part 1: 간단한 C#프로그램을 명령줄에서 컴파일하기
+        - 001~005
+
+- 2일차
+    - Part 1: 간단한 C#프로그램을 명령줄에서 컴파일하기
+        - 006~010
