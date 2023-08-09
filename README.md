@@ -2,13 +2,32 @@
 # C# Basic
 ## C# 기본문법 ~ 응용 앱 개발
 
-[Basic C#](https://github.com/LaniJeong/basic-CSharp-2023#readme) 
-<br />
-<br />
-[WPF](https://github.com/LaniJeong/pknu-wpf-2023)
+- [Basic C# Portfolio](https://github.com/LaniJeong/basic-CSharp-2023#readme)
+  - Winform 샤용한 책 대여 앱 만들기
 
-# Team Project: Smart Building Project - 관리자용 WPF 앱 개발
-## WPF 라즈베리파이 통신
+<br />
+
+- [WPF Portfolio](https://github.com/LaniJeong/pknu-wpf-2023)
+  - MVVM패턴 사용하여 영화검색 앱 만들기
+  - DB바인딩 하여 미세먼지 앱 만들기
+<br/>
+
+# Team Project: Smart Building Project
+## WPF로 관리자용, 거주자용 앱 제작
+### 목적
+#### - 관리자용 앱을 통해 센서를 직접 제어하고 빌딩 전체의 위험요소와 주차장을 관리하여 거주자들의 편리성을 증대시킨다.
+#### - 거주자용 앱을 사용하여 집 내부의 상황을 외부에서도 조정 할 수 있도록 하여 삶의 질을 향상시킨다.
+
+<br/>
+
+#### <건물 관리자용 모니터 앱>
+<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smartbuilding_app.png" width="700">
+
+#### <거주자용 모니터 앱>
+<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smarthome_app.png" width="700">
+
+<br/>
+
 ### 1일차(7.6)
 - WPF 템플릿 제작
 - 차량 관리 화면(진행 중)
@@ -95,13 +114,6 @@
   - MQTT통신 연결 확인 섹션 수정
 - 날씨 웹크롤링 오류 수정
   - Timespan 조정
-
-
-#### <건물 관리자용 모니터 앱>
-<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smartbuilding_app.png" width="700">
-
-#### <거주자용 모니터 앱>
-<img src="https://raw.githubusercontent.com/LaniJeong/study_CSharp/main/smarthome_app.png" width="700">
  
 # study_C#
 초보자를 위한 C# 200제
